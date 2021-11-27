@@ -12,10 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.1018.0",
+    "aws-sdk": "^2.1033.0",
     "axios": "^0.23.0",
     "bcrypt": "^5.0.1",
-    "cookie-parser": "^1.4.5",
+    "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
@@ -24,20 +24,20 @@
     "multer": "^1.4.3",
     "multer-s3": "^2.10.0",
     "mysql": "^2.18.1",
-    "mysql2": "^2.3.2",
+    "mysql2": "^2.3.3",
     "node-schedule": "^2.0.0",
-    "nodemailer": "^6.7.0",
+    "nodemailer": "^6.7.1",
     "pug": "^3.0.2",
-    "sequelize": "^6.8.0",
-    "sequelize-cli": "^6.2.0"
+    "sequelize": "^6.11.0",
+    "sequelize-cli": "^6.3.0"
   },
   "devDependencies": {
-    "eslint": "^8.1.0",
+    "eslint": "^8.2.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
     "husky": "^4.3.8",
-    "lint-staged": "^11.2.4",
-    "nodemon": "^2.0.14",
+    "lint-staged": "^11.2.6",
+    "nodemon": "^2.0.15",
     "prettier": "^2.4.1"
   },
   "husky": {
